@@ -9,7 +9,7 @@
   "author": "cljung@microsoft.com",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.21.2",
     "simple-oauth2": "^3.3.0"
   }
 }
